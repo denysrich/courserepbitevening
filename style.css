@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dennis Legal Consult | Trusted Attorneys</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Dennis <span>Legal Consult</span></h1>
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="about.html">About Firm</a>
+                <a href="services.html">Practice Areas</a>
+                <a href="contact.html">Contact Us</a>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="container">
+            <h2>Justice. Integrity. Excellence.</h2>
+            <p>Providing top-tier legal solutions for businesses and individuals.</p>
+            <a href="contact.html" class="btn">Schedule a Consultation</a>
+        </div>
+    </section>
+
+    <div class="container">
+        <section id="services">
+            <div class="box">
+                <h3>Corporate Law</h3>
+                <p>Expert guidance on business formation, contracts, and compliance. We protect your commercial interests.</p>
+            </div>
+
+            <div class="box">
+                <h3>Civil Litigation</h3>
+                <p>Strong representation in court. We fight for your rights in disputes, maximizing your chances of success.</p>
+            </div>
+
+            <div class="box">
+                <h3>Real Estate</h3>
+                <p>Handling property transactions, land disputes, and tenancy agreements with precision.</p>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>Dennis Legal Consult &copy; 2026</p>
+        <p>Location: Accra, Ghana | Phone: +233 55 555 5555</p>
+    </footer>
+
+</body>
+</html>
